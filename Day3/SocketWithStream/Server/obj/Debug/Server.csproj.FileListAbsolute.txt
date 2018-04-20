@@ -1,0 +1,12 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Server.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Server.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\VincentTran.dll
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\VincentTran.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\obj\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\obj\Debug\Server.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Dapper.dll
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Newtonsoft.Json.dll
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Dapper.xml
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\SocketWithStream\Server\bin\Debug\Newtonsoft.Json.xml

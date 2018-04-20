@@ -1,0 +1,9 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\bin\Debug\AsynchronousSocket.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\bin\Debug\AsynchronousSocket.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\bin\Debug\AsynchronousSocket.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.frmServer.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.Properties.Resources.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.csproj.GenerateResource.Cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\AsynchronousSocket\AsynchronousSocket\obj\Debug\AsynchronousSocket.pdb

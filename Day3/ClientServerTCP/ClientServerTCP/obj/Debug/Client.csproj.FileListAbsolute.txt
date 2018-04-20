@@ -1,0 +1,6 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\bin\Debug\ClientServerTCP.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\ClientServerTCP\obj\Debug\ClientServerTCP.pdb

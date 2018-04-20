@@ -1,0 +1,10 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\Server.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\Server.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\obj\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\obj\Debug\Server.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\VincentTran.dll
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\VincentTran.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\Newtonsoft.Json.dll
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\ClientServerTCP\Server\bin\Debug\Newtonsoft.Json.xml

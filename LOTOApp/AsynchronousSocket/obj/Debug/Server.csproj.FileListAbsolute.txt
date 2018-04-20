@@ -1,0 +1,12 @@
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\bin\Debug\AsynchronousSocket.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\bin\Debug\AsynchronousSocket.exe
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\bin\Debug\AsynchronousSocket.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\AsynchronousSocket.frmServer.resources
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\AsynchronousSocket.Properties.Resources.resources
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\AsynchronousSocket.exe
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\AsynchronousSocket.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\bin\Debug\Newtonsoft.Json.dll
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\bin\Debug\Newtonsoft.Json.xml
+D:\MyWorkSpace\Code_LTMangCsharp\LOTOApp\AsynchronousSocket\obj\Debug\AsynchronousSocket.frmDetail.resources
